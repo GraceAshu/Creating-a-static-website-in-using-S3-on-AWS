@@ -60,9 +60,7 @@ There you go! Your website is online, you can visit it using the provided endpoi
 ![image](https://github.com/GraceAshu/Creating-a-static-website-in-using-S3-on-AWS/assets/75226472/301d8e90-7180-4c2a-9637-c41fc2627935)
 
 
-<hr>
-  <a href="[http://mywebsitebucket054485.s3-website-us-east-1.amazonaws.com](http://mys3247.s3-website-us-east-1.amazonaws.com)/" tartget="_blank"> Visit my S3 static website</a>
-  </div>
+[Visit my S3 static website](http://mys3247.s3-website-us-east-1.amazonaws.com)
 
 ## Author
 
