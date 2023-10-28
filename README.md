@@ -1,8 +1,7 @@
 # Creating a static website using S3 on AWS
 ### • Cloud platform: AWS • Tools used: Text (Text editor), S3 (AWS) • Languages: Html
 
-The following project is part of my `AWS` Solution Architect - Associate Certification.<br>
-It can help you as a web entrepreneur, or web blogger, to deploy a static website very quickly using AWS.
+Host a static website on Amazon S3 by configuring your bucket for website hosting and then uploading your content to the bucket.
 <hr>
 <b>Steps</b><br>
 1. Create a bucket on S3 using a unique name <b>mys3247</b><be>
